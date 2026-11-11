@@ -1,0 +1,29 @@
+[0.678s] Invoking command in '/home/sidibe/vision_ws/src/yolo_detector': CONDA_PROMPT_MODIFIER=(base) PS1=(yolo_env) (base) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/sidibe/vision_ws/build/yolo_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(yolo_env) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/yolo_detector build --build-base /home/sidibe/vision_ws/build/yolo_detector/build install --record /home/sidibe/vision_ws/build/yolo_detector/install.log --single-version-externally-managed install_data
+[0.924s] running egg_info
+[0.925s] writing ../../build/yolo_detector/yolo_detector.egg-info/PKG-INFO
+[0.925s] writing dependency_links to ../../build/yolo_detector/yolo_detector.egg-info/dependency_links.txt
+[0.925s] writing entry points to ../../build/yolo_detector/yolo_detector.egg-info/entry_points.txt
+[0.925s] writing requirements to ../../build/yolo_detector/yolo_detector.egg-info/requires.txt
+[0.925s] writing top-level names to ../../build/yolo_detector/yolo_detector.egg-info/top_level.txt
+[0.928s] reading manifest file '../../build/yolo_detector/yolo_detector.egg-info/SOURCES.txt'
+[0.934s] writing manifest file '../../build/yolo_detector/yolo_detector.egg-info/SOURCES.txt'
+[0.934s] running build
+[0.934s] running build_py
+[0.934s] copying yolo_detector/Mog2.py -> /home/sidibe/vision_ws/build/yolo_detector/build/lib/yolo_detector
+[0.935s] running install
+[0.935s] running install_lib
+[0.936s] copying /home/sidibe/vision_ws/build/yolo_detector/build/lib/yolo_detector/Mog2.py -> /home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages/yolo_detector
+[0.937s] byte-compiling /home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages/yolo_detector/Mog2.py to Mog2.cpython-310.pyc
+[0.939s] running install_data
+[0.939s] creating /home/sidibe/vision_ws/install/yolo_detector/share/yolo_detector/launch
+[0.939s] copying launch/run_yolo.launch.py -> /home/sidibe/vision_ws/install/yolo_detector/share/yolo_detector/launch
+[0.939s] running install_egg_info
+[0.941s] removing '/home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages/yolo_detector-0.0.0-py3.10.egg-info' (and everything under it)
+[0.941s] Copying ../../build/yolo_detector/yolo_detector.egg-info to /home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages/yolo_detector-0.0.0-py3.10.egg-info
+[0.942s] running install_scripts
+[0.969s] Installing Mog2 script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.969s] Installing detector_distance script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.969s] Installing detector_distance_controller_without_twist script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.969s] Installing detector_only script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.969s] writing list of installed files to '/home/sidibe/vision_ws/build/yolo_detector/install.log'
+[0.997s] Invoked command in '/home/sidibe/vision_ws/src/yolo_detector' returned '0': CONDA_PROMPT_MODIFIER=(base) PS1=(yolo_env) (base) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/sidibe/vision_ws/build/yolo_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(yolo_env) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/yolo_detector build --build-base /home/sidibe/vision_ws/build/yolo_detector/build install --record /home/sidibe/vision_ws/build/yolo_detector/install.log --single-version-externally-managed install_data

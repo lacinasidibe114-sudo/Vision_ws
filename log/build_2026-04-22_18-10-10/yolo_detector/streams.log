@@ -1,0 +1,30 @@
+[0.530s] Invoking command in '/home/sidibe/vision_ws/src/yolo_detector': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/sidibe/vision_ws/build/yolo_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/yolo_detector build --build-base /home/sidibe/vision_ws/build/yolo_detector/build install --record /home/sidibe/vision_ws/build/yolo_detector/install.log --single-version-externally-managed install_data
+[0.704s] running egg_info
+[0.705s] writing ../../build/yolo_detector/yolo_detector.egg-info/PKG-INFO
+[0.705s] writing dependency_links to ../../build/yolo_detector/yolo_detector.egg-info/dependency_links.txt
+[0.705s] writing entry points to ../../build/yolo_detector/yolo_detector.egg-info/entry_points.txt
+[0.705s] writing requirements to ../../build/yolo_detector/yolo_detector.egg-info/requires.txt
+[0.705s] writing top-level names to ../../build/yolo_detector/yolo_detector.egg-info/top_level.txt
+[0.707s] reading manifest file '../../build/yolo_detector/yolo_detector.egg-info/SOURCES.txt'
+[0.713s] writing manifest file '../../build/yolo_detector/yolo_detector.egg-info/SOURCES.txt'
+[0.713s] running build
+[0.713s] running build_py
+[0.714s] copying yolo_detector/fall_detection_node.py -> /home/sidibe/vision_ws/build/yolo_detector/build/lib/yolo_detector
+[0.714s] running install
+[0.714s] running install_lib
+[0.715s] copying /home/sidibe/vision_ws/build/yolo_detector/build/lib/yolo_detector/fall_detection_node.py -> /home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages/yolo_detector
+[0.715s] byte-compiling /home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages/yolo_detector/fall_detection_node.py to fall_detection_node.cpython-310.pyc
+[0.717s] running install_data
+[0.717s] copying launch/run_yolo.launch.py -> /home/sidibe/vision_ws/install/yolo_detector/share/yolo_detector/launch
+[0.717s] running install_egg_info
+[0.718s] removing '/home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages/yolo_detector-0.0.0-py3.10.egg-info' (and everything under it)
+[0.718s] Copying ../../build/yolo_detector/yolo_detector.egg-info to /home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages/yolo_detector-0.0.0-py3.10.egg-info
+[0.719s] running install_scripts
+[0.741s] Installing Mog2 script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.741s] Installing detector_distance script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.741s] Installing detector_distance_controller_without_twist script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.741s] Installing detector_only script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.741s] Installing fall_detection_node script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.741s] Installing webcam_fall_detection_node script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.741s] writing list of installed files to '/home/sidibe/vision_ws/build/yolo_detector/install.log'
+[0.757s] Invoked command in '/home/sidibe/vision_ws/src/yolo_detector' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/sidibe/vision_ws/build/yolo_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/yolo_detector build --build-base /home/sidibe/vision_ws/build/yolo_detector/build install --record /home/sidibe/vision_ws/build/yolo_detector/install.log --single-version-externally-managed install_data

@@ -1,0 +1,17 @@
+[console_scripts]
+Mog2 = yolo_detector.Mog2:main
+camera_node = yolo_detector.camera_node:main
+detector_distance_controller_without_twist = yolo_detector.detector_distance_controller_without_twist:main
+fall_avance = yolo_detector.fall_avance:main
+fall_detection_method1_node = yolo_detector.fall_detection_method1_node:main
+fall_detection_method2_node = yolo_detector.fall_detection_method2_node:main
+fall_detection_method3_node = yolo_detector.fall_detection_method3_node:main
+fall_detection_method4_node = yolo_detector.fall_detection_method4_node:main
+fall_detection_method5_node = yolo_detector.fall_detection_method5_node:main
+fall_detection_node = yolo_detector.fall_detection_node:main
+fall_track = yolo_detector.fall_track:main
+projet_fuzzy = yolo_detector.projet_fuzzy:main
+projet_fuzzy_track = yolo_detector.projet_fuzzy_track:main
+pvclip_fall_node = yolo_detector.pvclip_fall_node:main
+webcam_fall_detection_node = yolo_detector.webcam_fall_detection_node:main
+

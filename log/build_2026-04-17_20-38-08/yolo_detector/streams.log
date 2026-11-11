@@ -1,0 +1,27 @@
+[0.399s] Invoking command in '/home/sidibe/vision_ws/src/yolo_detector': PYTHONPATH=/home/sidibe/vision_ws/build/yolo_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/yolo_detector build --build-base /home/sidibe/vision_ws/build/yolo_detector/build install --record /home/sidibe/vision_ws/build/yolo_detector/install.log --single-version-externally-managed install_data
+[0.550s] running egg_info
+[0.550s] writing ../../build/yolo_detector/yolo_detector.egg-info/PKG-INFO
+[0.550s] writing dependency_links to ../../build/yolo_detector/yolo_detector.egg-info/dependency_links.txt
+[0.551s] writing entry points to ../../build/yolo_detector/yolo_detector.egg-info/entry_points.txt
+[0.551s] writing requirements to ../../build/yolo_detector/yolo_detector.egg-info/requires.txt
+[0.551s] writing top-level names to ../../build/yolo_detector/yolo_detector.egg-info/top_level.txt
+[0.552s] reading manifest file '../../build/yolo_detector/yolo_detector.egg-info/SOURCES.txt'
+[0.552s] writing manifest file '../../build/yolo_detector/yolo_detector.egg-info/SOURCES.txt'
+[0.552s] running build
+[0.552s] running build_py
+[0.552s] copying yolo_detector/detector_only.py -> /home/sidibe/vision_ws/build/yolo_detector/build/lib/yolo_detector
+[0.553s] running install
+[0.553s] running install_lib
+[0.553s] copying /home/sidibe/vision_ws/build/yolo_detector/build/lib/yolo_detector/detector_only.py -> /home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages/yolo_detector
+[0.554s] byte-compiling /home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages/yolo_detector/detector_only.py to detector_only.cpython-310.pyc
+[0.554s] running install_data
+[0.554s] running install_egg_info
+[0.556s] removing '/home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages/yolo_detector-0.0.0-py3.10.egg-info' (and everything under it)
+[0.556s] Copying ../../build/yolo_detector/yolo_detector.egg-info to /home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages/yolo_detector-0.0.0-py3.10.egg-info
+[0.556s] running install_scripts
+[0.569s] Installing detector_distance script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.569s] Installing detector_distance_controller script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.569s] Installing detector_distance_controller_without_twist script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.569s] Installing detector_only script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.570s] writing list of installed files to '/home/sidibe/vision_ws/build/yolo_detector/install.log'
+[0.586s] Invoked command in '/home/sidibe/vision_ws/src/yolo_detector' returned '0': PYTHONPATH=/home/sidibe/vision_ws/build/yolo_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/yolo_detector build --build-base /home/sidibe/vision_ws/build/yolo_detector/build install --record /home/sidibe/vision_ws/build/yolo_detector/install.log --single-version-externally-managed install_data

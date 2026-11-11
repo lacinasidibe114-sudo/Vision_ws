@@ -1,0 +1,36 @@
+[0.311s] Invoking command in '/home/sidibe/vision_ws/src/yolo_detector': PS1=(yolo_env) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/sidibe/vision_ws/build/yolo_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(yolo_env) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/yolo_detector build --build-base /home/sidibe/vision_ws/build/yolo_detector/build install --record /home/sidibe/vision_ws/build/yolo_detector/install.log --single-version-externally-managed install_data
+[0.431s] running egg_info
+[0.432s] writing ../../build/yolo_detector/yolo_detector.egg-info/PKG-INFO
+[0.432s] writing dependency_links to ../../build/yolo_detector/yolo_detector.egg-info/dependency_links.txt
+[0.432s] writing entry points to ../../build/yolo_detector/yolo_detector.egg-info/entry_points.txt
+[0.432s] writing requirements to ../../build/yolo_detector/yolo_detector.egg-info/requires.txt
+[0.432s] writing top-level names to ../../build/yolo_detector/yolo_detector.egg-info/top_level.txt
+[0.433s] reading manifest file '../../build/yolo_detector/yolo_detector.egg-info/SOURCES.txt'
+[0.434s] writing manifest file '../../build/yolo_detector/yolo_detector.egg-info/SOURCES.txt'
+[0.434s] running build
+[0.434s] running build_py
+[0.434s] running install
+[0.434s] running install_lib
+[0.436s] running install_data
+[0.436s] copying launch/run_yolo.launch.py -> /home/sidibe/vision_ws/install/yolo_detector/share/yolo_detector/launch
+[0.436s] running install_egg_info
+[0.437s] removing '/home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages/yolo_detector-0.0.0-py3.10.egg-info' (and everything under it)
+[0.437s] Copying ../../build/yolo_detector/yolo_detector.egg-info to /home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages/yolo_detector-0.0.0-py3.10.egg-info
+[0.437s] running install_scripts
+[0.448s] Installing Mog2 script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.448s] Installing camera_node script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.449s] Installing detector_distance_controller_without_twist script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.449s] Installing fall_avance script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.449s] Installing fall_detection_method1_node script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.449s] Installing fall_detection_method2_node script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.449s] Installing fall_detection_method3_node script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.449s] Installing fall_detection_method4_node script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.449s] Installing fall_detection_method5_node script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.449s] Installing fall_detection_node script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.449s] Installing fall_track script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.449s] Installing projet_fuzzy script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.449s] Installing projet_fuzzy_track script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.449s] Installing pvclip_fall_node script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.449s] Installing webcam_fall_detection_node script to /home/sidibe/vision_ws/install/yolo_detector/lib/yolo_detector
+[0.450s] writing list of installed files to '/home/sidibe/vision_ws/build/yolo_detector/install.log'
+[0.463s] Invoked command in '/home/sidibe/vision_ws/src/yolo_detector' returned '0': PS1=(yolo_env) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/sidibe/vision_ws/build/yolo_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sidibe/vision_ws/install/yolo_detector/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(yolo_env) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/yolo_detector build --build-base /home/sidibe/vision_ws/build/yolo_detector/build install --record /home/sidibe/vision_ws/build/yolo_detector/install.log --single-version-externally-managed install_data
